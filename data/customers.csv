@@ -1,1 +1,11 @@
-
+customer_id,name,dob,city
+1,Customer_1,1985-01-01,Delhi
+2,Customer_2,1989-02-09,Delhi
+3,Customer_3,1993-03-20,Jaipur
+4,Customer_4,1997-04-28,Delhi
+5,Customer_5,2001-06-06,Jaipur
+6,Customer_6,2005-07-15,Jaipur
+7,Customer_7,2009-08-23,Bangalore
+8,Customer_8,2013-10-01,Bangalore
+9,Customer_9,2017-11-09,Jaipur
+10,Customer_10,2021-12-18,Mumbai
