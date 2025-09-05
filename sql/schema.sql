@@ -1,9 +1,11 @@
 
 CREATE TABLE Customers (
-    customer_id INT PRIMARY KEY,
-    name VARCHAR(100),
+    customer_id INTEGER PRIMARY KEY,
+    name TEXT,
     dob DATE,
-    city VARCHAR(50)
+    city TEXT,
+    email TEXT,
+    phone TEXT
 );
 
 CREATE TABLE Accounts (
