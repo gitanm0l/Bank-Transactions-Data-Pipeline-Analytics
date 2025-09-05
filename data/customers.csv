@@ -1,0 +1,101 @@
+customer_id,name,dob,city,email,phone
+1,Marc Anderson,1989-01-12,Andersonshire,ohess@example.org,001-617-938-2703x060
+2,Stacey Mason,2005-04-04,Jonesfurt,hailey00@example.net,7177151759
+3,Katherine Henry,1962-07-24,New Terri,xcombs@example.net,653.998.6616
+4,Linda Jones,1966-11-15,North William,kennethwest@example.com,395.979.0461x8840
+5,Darren Benjamin,1998-11-17,South Danielfurt,zmorales@example.org,561.525.3682x175
+6,Cameron Wagner,1970-06-10,Rayview,brownsara@example.org,9808011944
+7,Jennifer Clarke,1960-09-14,Lake Jonathan,kennethnichols@example.net,849-445-3578x3252
+8,Steven Garner,1995-01-08,Gonzalesville,mikayla86@example.net,797.368.8223
+9,Mark Taylor,1969-04-15,Mckeeview,brownstephanie@example.net,001-373-225-8155
+10,Dawn Owens,1992-08-05,Burnsburgh,ufrancis@example.com,8796528152
+11,Jared Garrett,2002-03-06,Vegaburgh,hlewis@example.com,+1-519-448-7504
+12,Isaiah Brooks,1977-09-15,South Allenmouth,emilyfinley@example.org,531.284.7916
+13,Jimmy Smith,1967-12-09,Wilkinston,mjohnson@example.org,+1-988-496-3121x929
+14,Manuel Hernandez,1967-06-05,West Brian,pguerra@example.com,(221)820-1666x654
+15,Linda Smith,1977-09-23,Johnport,steven59@example.com,(559)819-0338
+16,Sheila Carney,1989-08-24,East Crystalmouth,cory62@example.net,+1-354-568-7535
+17,Jessica Young,1981-09-12,Lake Alexisside,lmercado@example.net,8376109447
+18,Jessica Dennis,1957-04-14,Katrinaville,saundersjacqueline@example.com,226-218-5867x8964
+19,Angela Black,1979-04-28,Debrabury,steve40@example.org,685.813.6113x8137
+20,Luke Barton,2003-09-24,Andersonview,valdezoscar@example.com,(425)523-7177x89982
+21,Donald Adams,1959-12-10,North Jessica,joseph30@example.org,(494)767-7709
+22,Brian Smith,1983-11-30,Port Amber,meganbrewer@example.net,+1-505-523-0869x4424
+23,Toni Nash,2005-12-01,Port Rachelland,brandiross@example.com,315.603.0161x2076
+24,Roger Martinez,1990-12-25,Charlesside,kenneth73@example.net,001-483-959-2954x055
+25,Francis Grimes,1987-08-06,West Alexis,lisa07@example.net,001-274-690-0738x030
+26,Tiffany Kemp,1963-12-25,Browntown,wendycannon@example.net,001-878-326-4020x838
+27,Julie Thompson,1979-02-11,Grahamton,gburns@example.net,001-787-279-5583x0030
+28,Jennifer Robinson,1968-03-27,Ponceview,jessejames@example.com,783-663-7969
+29,Christopher Brown,1957-12-20,West John,elizabethjohnson@example.net,740-250-7285x096
+30,Zachary Roberts,1961-10-14,East Allison,whart@example.org,(373)713-7414x649
+31,Casey Gray,1976-07-13,Wilsonberg,gwilson@example.org,+1-771-544-6673
+32,Rebecca Richardson,1969-07-14,Port Josephville,jessica01@example.net,+1-994-892-4328x2156
+33,Justin Harrison,1993-09-05,Diazmouth,ronaldlittle@example.org,001-736-554-1710x9179
+34,Donna Romero,1988-06-28,Kingburgh,ujensen@example.org,+1-505-204-1294
+35,Samantha Lewis,1970-09-22,Port Adam,lisa44@example.com,(314)285-7451x529
+36,Kathryn Gonzalez,2002-03-28,West Calvin,andrea16@example.org,(812)565-9159x5991
+37,Laura Riley,1981-04-06,North Rachel,millermichael@example.org,220-895-2491x432
+38,Lauren Howard,1959-10-11,Brittanymouth,james98@example.net,001-488-361-0221x72914
+39,Amy Ramos,1965-04-22,Port Jeffrey,joannasalazar@example.com,+1-221-351-6000
+40,Ryan Hill,1964-12-14,Dayfort,laurenwhite@example.com,+1-517-550-9480
+41,Alexander Payne,1972-04-08,Scottview,millselizabeth@example.org,810.861.3905x04756
+42,Francisco Smith MD,1968-08-02,Hayesmouth,deborah92@example.org,(887)217-9201
+43,Tonya Pugh,1982-05-27,Lawrencemouth,christinamartinez@example.com,001-672-367-8788
+44,Gregory Barton,2002-07-11,Richardborough,johnsontracy@example.com,+1-211-378-5910
+45,Tyler Dawson,2004-08-26,New Biancachester,fjones@example.net,+1-240-200-7843x6691
+46,Mr. Lawrence Farrell,1961-03-21,South Ashley,jhubbard@example.net,001-416-947-7522
+47,Jason Ryan,1983-01-13,South Theodoreton,andradedouglas@example.com,001-209-713-3284x4045
+48,Paul Palmer,1970-11-17,Lisabury,denise01@example.com,(305)735-8910
+49,Wesley Silva,1970-07-21,West Lori,oholland@example.com,756-208-9561x33284
+50,Rachel Perez,1964-01-23,West John,antoniobest@example.net,001-852-631-8232x5984
+51,Susan Davis,1994-12-25,New Adamberg,crystal33@example.net,(435)861-2161
+52,Jason Jones,1979-12-13,South Scott,emily43@example.net,450-513-8731x861
+53,April Perry,1986-07-28,East Stephenburgh,nathan39@example.net,547-996-2654
+54,Angel Cordova,2002-09-23,East Charlesshire,valeriewilliams@example.org,+1-378-391-1408x7446
+55,Daryl Jones,1986-06-28,Isabellaville,patrickjones@example.com,+1-573-932-6030
+56,Karen Davies,1971-09-12,Matthewport,gregorythomas@example.com,+1-728-884-8229
+57,Chris Gonzalez,1960-05-02,Michaelfurt,angela49@example.com,257.866.2171x9598
+58,Joshua Rodriguez,1965-01-20,Thomasport,orandall@example.org,+1-428-916-1754x19636
+59,David Roberson,2006-06-16,New Johnstad,devincastaneda@example.net,001-687-578-1390
+60,Whitney Benson,2001-09-01,Juliehaven,underwoodkevin@example.com,+1-565-546-6151
+61,Taylor Bell,1992-07-16,New Patrick,eward@example.com,361-256-6475x4256
+62,Susan Long,1972-05-19,North Jonathanville,kelly98@example.com,216-309-3949
+63,Danielle Wong,1960-09-21,Lake Michelle,joehart@example.com,001-861-253-1950x2958
+64,Kathleen Thompson,1994-08-08,Mooreberg,stevenscott@example.net,001-544-298-8199x4497
+65,Christopher Webster,1979-03-10,New Brian,steven39@example.com,(741)893-1929x26061
+66,Kelsey Williams,1976-06-11,Brianfurt,david63@example.org,341.360.7171
+67,Ryan Young,1966-05-13,East Katherine,nathanielsutton@example.com,001-375-706-9153x510
+68,Patrick Wells,2007-07-19,Schmidtmouth,christina74@example.net,925-272-5769x751
+69,Courtney Hodge,1992-12-15,Blakeville,michael47@example.com,869-856-9660
+70,Stacy Dodson,1960-01-08,Crawfordhaven,thomas25@example.org,381-498-9560
+71,Sandra King,1986-07-24,West Andre,lschmidt@example.net,453-589-7268
+72,Richard Peters,1960-01-30,Josephview,davisjames@example.com,001-599-835-8440x98820
+73,Matthew Carlson,1997-09-16,East Shannon,luis96@example.net,001-511-714-5424
+74,Jason Bradley,1966-08-25,Laurahaven,stevenmoran@example.net,+1-906-588-4575
+75,Paul Edwards,1963-06-11,West Stevenfurt,brian04@example.net,+1-763-317-5261x1714
+76,Daniel Perkins,1967-07-11,Elizabethview,hollypeters@example.org,442.457.4817x5887
+77,Steven Rodriguez,1979-06-12,Port Justin,diane09@example.org,(426)693-4925x14145
+78,Michael Anderson,1977-04-16,North Markfort,greeneandrea@example.net,001-565-774-7913x11346
+79,Rebecca Benjamin,2003-05-14,West Douglas,huntertimothy@example.com,235-631-2183x4650
+80,Crystal Morgan,1979-07-27,Fisherburgh,jacobsgregory@example.org,+1-287-283-2831x3595
+81,Philip Stewart,1997-07-19,East Daniel,kellychase@example.com,+1-518-833-9640x8589
+82,Elizabeth Lopez,1982-05-01,Katherinebury,boydpaul@example.org,001-912-475-9281
+83,Kimberly Rodriguez,2006-06-04,Bruceland,randall01@example.com,3045343722
+84,Sarah Sanford,1989-02-07,Spencertown,gobrien@example.com,438-979-0743x146
+85,Antonio Hall,1989-11-27,Lake Diane,stevenbyrd@example.com,001-303-400-3820
+86,Megan Pope,1956-01-16,New Jefffurt,jamescamacho@example.com,001-874-763-2004x876
+87,Mrs. Jennifer Christensen MD,1978-07-13,Port Michelle,warrencheryl@example.net,(637)598-9986x872
+88,Natasha Phillips,1956-11-10,Lake Cherylton,qanderson@example.net,739.889.4913x808
+89,Richard Myers,1983-12-28,Jeromeburgh,popedaniel@example.net,5834159607
+90,Leon Wright,1969-07-06,North Shelby,kristen73@example.net,7875232584
+91,Keith Berg,1970-12-27,Lake Jocelynburgh,jessica02@example.com,4523295643
+92,Aaron Knight,1992-04-26,South Christinabury,craig95@example.org,+1-534-371-0601
+93,Eugene Cook,1992-11-30,Jessicaburgh,kelli36@example.com,+1-433-567-3486
+94,Christopher Doyle,1992-04-12,North Paul,rebeccawallace@example.org,001-699-551-9387x0269
+95,Marcus Lee,1988-11-09,New Tracytown,kendra25@example.com,001-353-224-1039x5069
+96,Jeffrey Price,2002-07-26,South Samuel,katrinawest@example.org,+1-282-932-1031x8406
+97,Jessica Morse,1985-03-28,Allenburgh,cathyrobles@example.org,3285231836
+98,Matthew Macias,1994-08-22,Michaelstad,morrisharold@example.org,208-381-9278x829
+99,Andrew Thomas,1960-09-04,Bryantport,carol04@example.org,001-488-363-0917x61339
+100,Michelle Cooper,2007-08-26,Sanchezfurt,lisa73@example.com,(850)322-5982x141
